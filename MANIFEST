@@ -1,0 +1,7 @@
+README.txt
+setup.py
+chirp/__init__.py
+chirp/cms_plugins.py
+chirp/models.py
+chirp/templatetags/__init__.py
+chirp/templatetags/chirp_filters.py
