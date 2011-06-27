@@ -15,6 +15,7 @@ Configuration
 Add the following entries to your Django projects settings.py 
 
 ::
+
 	PUSHER_APP_ID = 'YOUR_PUSHER_APP_ID'
 	PUSHER_KEY = 'YOUR_PUSHER_KEY'
 	PUSHER_SECRET = 'YOUR_PUSHER_SECRET'
