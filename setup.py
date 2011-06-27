@@ -16,6 +16,6 @@ packages=['ponypusher', ],
 install_requires=['pusher',],
 license='GPL v3',
 #Description that will appear on pypi/chishop
-long_description=open('README.txt').read(),
+long_description=open('README.rst').read(),
 include_package_data=True,
 )
